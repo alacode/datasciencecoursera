@@ -1,3 +1,3 @@
 # datasciencecoursera
-Coursera - The Data Scientist’s Toolbox (demo repo)
+Coursera - The Data Scientist’s Toolbox (demo repo) <p>
 Nothing to read here...
